@@ -1,2 +1,2 @@
 # ngo-data
-A set of scripts I wrote to get data off the internet
+A set of spider scripts using requests library. These scripts use BeautifulSoup and Requests libraries to get data from different websites containing NGO data.
